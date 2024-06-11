@@ -1,0 +1,54 @@
+
+div{
+    background:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_HPgCUhs15qE-aKBoFZvO5YPox3okkdobpw&s");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size:100% auto;
+    #mydiv{
+        width:"5000px";
+        height:"5000px";
+    }
+      
+      
+        
+    
+    a{
+      text-decoration:none ;  
+      a:link{color:blueviolet};
+      a:active{color:green};
+      a:visited{color:gray};
+      a:hover{color:pink};
+    }
+    section{
+      background-color:white;
+      background-position : 100px;
+    }
+    center{
+      color:green;
+    }
+      .fa-linkedin{
+        background:#007bb5;
+        color:white;
+      }
+      .fa-facebook{
+        background:#007bb5;
+        color:white;
+      }
+      .fa-youtube{
+        background:red ;
+        color:white;
+      
+      }
+      .fa {
+        padding:10px;
+        font-size:20px;
+        width:20px;
+        text-decoration: none;
+        margin:5px 10px;
+        text-align:center;
+
+      }
+
+    }
+    
+  
